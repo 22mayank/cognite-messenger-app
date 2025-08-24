@@ -250,7 +250,7 @@ curl -X POST http://localhost:3001/api/chats/1/messages \
 
 ## 👤 Author
 
-**Your Name**
+**Mayank Agarwal**
 - Email: ags.mayank022@gmail.com
 
 ---
